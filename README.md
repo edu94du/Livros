@@ -1,3 +1,5 @@
-## Books course Full Stack 
+# Books course Full Stack 
 
-HTML + CSS + JS & Frameworks
+## HTML + CSS + JS & Frameworks
+
+Brazilian portuguese! 
